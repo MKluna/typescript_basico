@@ -1,0 +1,72 @@
+[
+    {
+        "country": {
+            "code": "pe",
+            "name": "Perú",
+            "locale": "es-PE",
+            "currency": "PEN"
+        },
+        "value": 3.53,
+        "behavior": 1
+    },
+    {
+        "country": {
+            "code": "es",
+            "name": "España",
+            "locale": "es-ES",
+            "currency": "EUR"
+        },
+        "value": 0.9,
+        "behavior": 0
+    },
+    {
+        "country": {
+            "code": "mx",
+            "name": "México",
+            "locale": "es-MX",
+            "currency": "MEX"
+        },
+        "value": 21.92,
+        "behavior": 0
+    },
+    {
+        "country": {
+            "code": "ar",
+            "name": "Argentina",
+            "locale": "es-AR",
+            "currency": "ARG"
+        },
+        "value": 62.69,
+        "behavior": 1
+    },
+    {
+        "country": {
+            "code": "ca",
+            "name": "Canada",
+            "locale": "en-CA",
+            "currency": "CAD"
+        },
+        "value": 0.72,
+        "behavior": 1.38
+    },
+    {
+        "country": {
+            "code": "br",
+            "name": "Brasil",
+            "locale": "pt-BR",
+            "currency": "BRL"
+        },
+        "value": 4.86,
+        "behavior": 1
+    },
+    {
+        "country": {
+            "code": "co",
+            "name": "Colombia",
+            "locale": "es-CO",
+            "currency": "COL"
+        },
+        "value": 3977,
+        "behavior": 1
+    }
+]

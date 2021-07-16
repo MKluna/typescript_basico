@@ -1,0 +1,8 @@
+✔ Public (Bajo nivel - Accesible desde cualquier parte del programa)
+✔ Private (Las propiedades o metodos pueden accedido dentro de la misma clase o mediante la herencia)
+✔ Protected (Las propiedades o metodos pueden ser accedido dentro de la propia clase)
+
+Los modificadores de acceso seran un
+mecanismo de seguridad por el cual accederemos
+a los atributos y metodos de una clase
+

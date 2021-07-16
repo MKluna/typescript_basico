@@ -1,0 +1,2 @@
+El archivo TsConfig es un archivo tipo JSON que se crea en el directorio raiz de nuestro
+proyecto TS con el objetivo de indicarle al compilador TS las diferentes opciones para el proceso del compilado

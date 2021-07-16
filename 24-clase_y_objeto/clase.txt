@@ -1,0 +1,23 @@
+# Clase
+✔ Platilla
+✔ Caracteristicas
+✔ Comportamiento
+
+# Objeto
+✔  Instancia de una Clase
+✔  Estado
+✔  Comportamiento
+✔  Identidad
+
+# Programacion Orientada a Objetos
+
+Ventajas:
+    ✔  Reutilizable
+    ✔  Mantenibilidad
+    ✔  Fiabilidad
+
+Caracteristicas:
+    ✔  Abstracción
+    ✔  Herencia
+    ✔  Polimorfismo
+

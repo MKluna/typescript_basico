@@ -1,0 +1,3 @@
+# Herencia
+    - La herencia es el mecanismo por el cual una clase hija
+      puede heredar las caracteristicas del padre
